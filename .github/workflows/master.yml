@@ -17,4 +17,4 @@ jobs:
         server: www.bestiony.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /bestiony.com/
+        server-dir: /
